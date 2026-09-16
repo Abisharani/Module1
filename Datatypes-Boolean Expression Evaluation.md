@@ -16,24 +16,21 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-# Assign expressions to variables
-a = 0 == True
-b = False == False
-c = True + True
-d = False + 9
-
-# Print the results with labels
-print("a is", a)
-print("b is", b)
-print("c:", c)
-print("d:", d)
+a = (False == True)
+b = (False== 0)
+c = False + True
+d = False + 5
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
 ```
 
 ## Output
 
-<img width="142" height="172" alt="image" src="https://github.com/user-attachments/assets/88e2e796-949e-4177-9409-4b48238752ab" />
+<img width="405" height="347" alt="image" src="https://github.com/user-attachments/assets/172bb357-1c12-455d-be86-3f772e742042" />
 
 
 ## Result
 
-Program executed successfully.
+Thus,the PPython program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully.
